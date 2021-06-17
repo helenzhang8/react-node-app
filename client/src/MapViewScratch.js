@@ -31,15 +31,14 @@ export default function Map({allLocations, setMarkerToDisplay}) {
     }
 
     function deduceIconType(locationObject) {
-        switch (locationObject) {
-            case true:
-                return (
-                    <p>🚘</p>
-                )
-            case false:
-                return (
-                    <p>🅿️</p>
-                )
+        if (locationObject == true){
+            return (
+                <p>🚘</p>
+            )
+        } else {
+            return (
+                <p>🅿️</p>
+            )
         }
     }
 
@@ -92,7 +91,7 @@ export default function Map({allLocations, setMarkerToDisplay}) {
 function CustomMarker(props) {
     const [showPopup, togglePopup] = React.useState(false);
 
-    const {longitude, latitude, viewport, name, setMarkerToDisplay, icon, locationObject} = props;
+    const {longitude, latitude, setMarkerToDisplay, icon, locationObject} = props;
 
     return (
         <div style={{transition: "ease-in"}}>
