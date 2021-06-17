@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5c1697-bd28-4ec4-88a6-5adf198aaed6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.9d5b29c0.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/css/main.9d5b29c0.chunk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.9d5b29c0.chunk.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/css/main.9d5b29c0.chunk.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.424e261c.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/2.424e261c.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.424e261c.chunk.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/2.424e261c.chunk.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.424e261c.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/2.424e261c.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/3.9b9f2920.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/3.9b9f2920.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/3.9b9f2920.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/3.9b9f2920.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.ccdbe530.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/main.ccdbe530.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.ccdbe530.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/main.ccdbe530.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/runtime-main.de05ca20.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/runtime-main.de05ca20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/runtime-main.de05ca20.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/js/runtime-main.de05ca20.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/media/logo.6ce24c58.svg" beforeDir="false" afterPath="$PROJECT_DIR$/server/build/static/media/logo.6ce24c58.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/MapViewScratch.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/MapViewScratch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +59,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/client/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -63,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623895372360</updated>
-      <workItem from="1623895374658" duration="3693000" />
+      <workItem from="1623895374658" duration="4455000" />
     </task>
     <servers />
   </component>

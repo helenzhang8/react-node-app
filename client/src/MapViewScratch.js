@@ -31,7 +31,7 @@ export default function Map({allLocations, setMarkerToDisplay}) {
     }
 
     function deduceIconType(locationObject) {
-        if (locationObject == true){
+        if (locationObject === true){
             return (
                 <p>🚘</p>
             )
